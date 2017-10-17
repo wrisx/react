@@ -37,7 +37,7 @@ node_modules/
 jspm_packages/
 
 #settings
-server/env/
+server/env/environment.js
 
 # Typescript v1 declaration files
 typings/
